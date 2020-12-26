@@ -1,0 +1,19 @@
+{
+    "name": "kyojiduc/contact",
+    "description": "This will send email to admin and save contact query in datatbase",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KYOJIDUC",
+            "email": "kyojitachabana@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kyojiduc\\Contact\\": "src/"
+        }
+    }
+}
